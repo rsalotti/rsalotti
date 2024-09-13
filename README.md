@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá! Eu sou Ricardo Salotti 👋
 
-<!--
-**rsalotti/rsalotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor mobile com foco em iOS, atualmente trabalhando na Agile Content. Sempre buscando aprender novas tecnologias e criar soluções elegantes para problemas complexos.
 
-Here are some ideas to get you started:
+- 🌍 Baseado em Guaxupé, MG
+- 💼 Trabalhando atualmente na [Agile Content](https://www.agilecontent.com/)
+- 💻 Projetos de Estudos: Pokedex iOS, WorldCups
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Habilidades Técnicas
+
+- **Linguagens**: Swift
+- **Ferramentas**: Xcode, Git, Fastlane
+- **Frameworks**: UIKit, SwiftUI
+- **Outros**: Core Data, Firebase, RESTful APIs
+
+---
+
+### 🚀 Projetos
+
+1. **[Pokedex iOS](https://github.com/rsalotti/pokedex-ios)**: App de Pokédex para WatchOS.
+2. **[WorldCups](https://github.com/rsalotti/worldcups)**: App de acompanhamento das Copas do Mundo.
+
+---
+
+### 🌟 Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rsalottirodrigues-santos)
