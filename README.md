@@ -1,4 +1,4 @@
-# Olá! Eu sou Ricardo Salotti 👋
+# Olá! 👋
 
 Sou desenvolvedor mobile com foco em iOS, atualmente trabalhando na Agile Content. Sempre buscando aprender novas tecnologias e criar soluções elegantes para problemas complexos.
 
